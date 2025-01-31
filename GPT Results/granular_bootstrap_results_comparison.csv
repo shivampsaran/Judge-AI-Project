@@ -1,0 +1,49 @@
+Group,Condition,Mean_Affirm,Lower_CI,Upper_CI,Condition_
+GPT-4o,Sympathetic_Affirm,1,NA,NA,"When Defendant is 
+Sympathetic 
+and Precedent Says 
+to Affirm"
+GPT-4o,Unsympathetic_Affirm,0.9596400000000015,0.88,1,"When Defendant is 
+Unsympathetic 
+and Precedent Says 
+to Affirm"
+GPT-4o,Sympathetic_Reverse,0.7980799999999956,0.6399999999999999,0.96,"When Defendant is 
+Sympathetic 
+and Precedent Says 
+to Reverse"
+GPT-4o,Unsympathetic_Reverse,0.7205999999999989,0.52,0.88,"When Defendant is 
+Unsympathetic 
+and Precedent Says 
+to Reverse"
+Judge,Sympathetic_Affirm,0.40180000000000005,0.1,0.7,"When Defendant is 
+Sympathetic 
+and Precedent Says 
+to Affirm"
+Judge,Unsympathetic_Affirm,1,NA,NA,"When Defendant is 
+Unsympathetic 
+and Precedent Says 
+to Affirm"
+Judge,Sympathetic_Reverse,0.8255000000000012,0.5,1,"When Defendant is 
+Sympathetic 
+and Precedent Says 
+to Reverse"
+Judge,Unsympathetic_Reverse,0.878125,0.625,1,"When Defendant is 
+Unsympathetic 
+and Precedent Says 
+to Reverse"
+Student,Sympathetic_Affirm,0.9109130434782541,0.782608695652174,1,"When Defendant is 
+Sympathetic 
+and Precedent Says 
+to Affirm"
+Student,Unsympathetic_Affirm,0.9180799999999982,0.8,1,"When Defendant is 
+Unsympathetic 
+and Precedent Says 
+to Affirm"
+Student,Sympathetic_Reverse,0.6038499999999997,0.4,0.8,"When Defendant is 
+Sympathetic 
+and Precedent Says 
+to Reverse"
+Student,Unsympathetic_Reverse,0.6099130434782646,0.391304347826087,0.782608695652174,"When Defendant is 
+Unsympathetic 
+and Precedent Says 
+to Reverse"
