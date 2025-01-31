@@ -1,0 +1,1 @@
+You are analyzing a pending case at the International Criminal Tribunal for the Former Yugoslavia (ICTY). Your task is to predict an outcome distribution of 25 judges who are asked to either affirm or reverse the lower court's decision.

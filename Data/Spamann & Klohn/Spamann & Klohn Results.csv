@@ -1,0 +1,13 @@
+Group,Condition,Condition_,Affirm,Reverse,Total,percent_affirm
+Judges (Original),Horvat_Sainovic,Sympathetic_Affirm,4,7,11,0.36
+Judges (Original),Horvat_Vasiljevic,Sympathetic_Reverse,3,3,6,0.5
+Judges (Original),Vukovic_Sainovic,Unsympathetic_Affirm,7,0,7,1
+Judges (Original),Vukovic_Vasiljevic,Unsympathetic_Reverse,6,2,8,0.75
+Judges (Adjusted),Horvat_Sainovic,Sympathetic_Affirm,4,6,10,0.4
+Judges (Adjusted),Horvat_Vasiljevic,Sympathetic_Reverse,5,1,6,0.83
+Judges (Adjusted),Vukovic_Sainovic,Unsympathetic_Affirm,7,0,7,1
+Judges (Adjusted),Vukovic_Vasiljevic,Unsympathetic_Reverse,7,1,8,0.88
+Students,Horvat_Sainovic,Sympathetic_Affirm,21,2,23,0.91
+Students,Horvat_Vasiljevic,Sympathetic_Reverse,12,8,20,0.6
+Students,Vukovic_Sainovic,Unsympathetic_Affirm,23,2,25,0.92
+Students,Vukovic_Vasiljevic,Unsympathetic_Reverse,14,9,23,0.61
